@@ -6,5 +6,5 @@ Latihan Soal untuk materi komdat serial
 
 ## Ketentuan
 - 2 LED
-- Controlnya pwm dan on/off
+- Controlnya pwm dan enable
 - status
