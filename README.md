@@ -7,3 +7,5 @@ Praktikum Komdat
 	- Microsoft comm control
 - Labview
 	- Visa Serial
+- Software Tambahan
+	- [Putty](https://www.putty.org/)
